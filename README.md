@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Kavya-77-skd
-- 👀 I’m interested in literature and learning new things
-- 🌱 I’m currently learning CS50x 
 - 💞️ I’m looking to collaborate on begineer level code
 - 📫 How to reach me kavyadev2005@gmail.com
 
